@@ -82,9 +82,9 @@ Katkılar memnuniyetle kabul edilir! Lütfen şu adımları takip edin:
 
 Contributions are welcome! Please follow these steps:
 
-1. Depoyu çatallayın / Fork the repository.
+1. Depoyu kopyalayın / Fork the repository.
 2. Yeni bir dal oluşturun / Create a new branch for your feature or bugfix.
-3. Değişikliklerinizi işleyip çatallı deponuza gönderin / Commit your changes and push them to your fork.
+3. Değişikliklerinizi işleyip kopyalanmış deponuza gönderin / Commit your changes and push them to your fork.
 4. Bir pull request gönderin / Submit a pull request.
 
 ---
